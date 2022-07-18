@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863732048208",
+    "project_id": "mile-on-130e6",
+    "storage_bucket": "mile-on-130e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863732048208:android:1c5fd229219f4ff30d0c55",
+        "android_client_info": {
+          "package_name": "com.example.mileon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863732048208-5lsq0s0lqt0c57mqgm806dn5kh01abfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcNrXj5bSE9acvU0mPwDpR3jiJuGHd44E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863732048208-5lsq0s0lqt0c57mqgm806dn5kh01abfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
